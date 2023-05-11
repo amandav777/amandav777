@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amandav777
 - 👀 I’m interested in design, front-end development and league of legends!
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning front-end development.
+- 🏻‍💻 Pursuing a B-Tech Degree at System Analysis and Development (ADS for Brasil).
 - 💞️ I’m looking to collaborate on anything I'm able to do!
 - 📫 How to reach me - my IG: @soueuaamandav
 - 🎨 You can also check my BeHance to see my design works: https://www.behance.net/amandav777 ✨
