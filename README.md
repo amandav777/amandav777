@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandav777
 - 👀 I’m interested in design, front-end development and league of legends!
-- 🌱 I’m currently learning front-end development and UX/UI Design.
+- 🌱 I’m currently learning full-stack development and UX/UI Design.
 - 🏻‍💻 Pursuing a B-Tech Degree at System Analysis and Development (ADS for Brasil).
 - 💞️ You can see my design works at www.behance.com/amandav777
 - 📫 How to reach me - my IG: @soueuaamandav
