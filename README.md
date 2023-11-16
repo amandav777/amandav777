@@ -1,6 +1,6 @@
 - 👋 Eu sou a Amanda! Me especializando em UX/UI, mas eu >AMO< front-end.
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Marília 💙.
-- 💞️ [Clique aqui para ver meu portfólio de estudos em UX no BeHance!](www.behance.com/amandav777)
+- 💞️ [Clique aqui para ver meu portfólio de estudos em UX no BeHance!](www.behance.net/amandav777)
 
 <div style="display: flex; justify-content: space-between;">
 
