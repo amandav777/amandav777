@@ -1,7 +1,5 @@
-- 👋 Eu sou a Amanda 💖;
--  🎨 UX/UI Designer & dev front-end angular 💖;
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Marília 💙;
-- 💞️ [Clique aqui para ver meu portfólio de estudos em UX no BeHance!](https://www.behance.net/amandav777)
+Deus me abençoe para que eu suma desse site
+- 💞️ [Sou UX](https://www.behance.net/amandav777)
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
 
