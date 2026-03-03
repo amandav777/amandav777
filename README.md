@@ -1,5 +1,6 @@
-Deus me abençoe para que eu suma desse site
-- 💞️ [Sou UX](https://www.behance.net/amandav777)
+os mandrake curte a vida
+
+- 💞️ [Portfólio UX](https://www.behance.net/amandav777)
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
 
