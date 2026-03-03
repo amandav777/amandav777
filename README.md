@@ -4,9 +4,6 @@ os mandrake curte a vida
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandav777&layout=compact)
-<img src="giphy.gif" style="width: 100px;"> 
-</div>
 
 
 <!---
